@@ -1,0 +1,23 @@
+.navbar-expand-lg{
+	background-color: orange;
+}
+h1, h2{
+	margin: 15px 15px 15px 15px;
+	text-align: center;
+}
+.part-1, .part-2, .part-3{
+border:1px solid black;
+margin: 15px;
+}
+.part-1{
+background-color:lightgray;
+}
+.part-2{
+background-color: skyblue;
+}
+.part-3{
+background-color: pink;
+}
+button:hover {
+	background-color: gray;
+}
